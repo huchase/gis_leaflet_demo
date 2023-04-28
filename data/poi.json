@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "name": "poi",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 1,
+        "name": "快递站",
+        "type": "其它",
+        "url": "https://lbsugc.cdn.bcebos.com/images/H6609c93d70cf3bc772e13cf7de00baa1cc112acc.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.135484510265783, 30.875369990199879]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 2,
+        "name": "瑞幸咖啡",
+        "type": "饮料",
+        "url": "https://lbsugc.cdn.bcebos.com/images/H7e3e6709c93d70cfd71b5b16f7dcd100bba12bcc.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.134698579815819, 30.875115651159486]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 3,
+        "name": "打印店",
+        "type": "其它",
+        "url": "https://lbsugc.cdn.bcebos.com/images/H6609c93d70cf3bc772e13cf7de00baa1cc112acc.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.131003421982669, 30.874634285711299]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 4,
+        "name": "咖啡店",
+        "type": "饮料",
+        "url": "https://lbsugc.cdn.bcebos.com/images/H7e3e6709c93d70cfd71b5b16f7dcd100bba12bcc.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.1343419784736, 30.873245104541297]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 5,
+        "name": "早餐店",
+        "type": "餐厅",
+        "url": "https://lbsugc.cdn.bcebos.com/images/H6609c93d70cf3bc772e13cf7de00baa1cc112acc.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.134679231044871, 30.875911854002833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 6,
+        "name": "咖啡店",
+        "type": "饮料",
+        "url": "https://lbsugc.cdn.bcebos.com/images/H7e3e6709c93d70cfd71b5b16f7dcd100bba12bcc.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.130470571303434, 30.872423962449709]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 7,
+        "name": "KFC",
+        "type": "餐厅",
+        "url": "https://lbsugc.cdn.bcebos.com/images/H6609c93d70cf3bc772e13cf7de00baa1cc112acc.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.130355585014726, 30.874681085998859]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fid": 8,
+        "name": "面包店",
+        "type": "餐厅",
+        "url": "https://lbsugc.cdn.bcebos.com/images/H7e3e6709c93d70cfd71b5b16f7dcd100bba12bcc.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.129722013957192, 30.874608580796107]
+      }
+    }
+  ]
+}

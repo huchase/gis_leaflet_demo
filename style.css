@@ -1,0 +1,25 @@
+@import '~leaflet/dist/leaflet.css';
+
+html,
+body,
+#map {
+  height: 100%;
+  margin: 0px;
+}
+
+.leaflet-tooltip-right:before {
+  border-right-color: transparent;
+}
+
+.leaflet-tooltip-left:before {
+  border-left-color: transparent;
+}
+
+.leaflet-tooltip {
+  background-color: transparent;
+  border: 0px;
+  border-radius: 0px;
+  color: #222;
+  font-weight: 600;
+  box-shadow: none;
+}
